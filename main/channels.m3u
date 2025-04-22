@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ddnational" tvg-name="DD National" tvg-language="Hindi", DD National
+https://www.youtube.com/@DDNationalLive/live
+
+#EXTINF:-1 tvg-id="ddnews" tvg-name="DD News" tvg-language="Hindi", DD News
+https://www.youtube.com/@DDNewsOfficial/live
+
+#EXTINF:-1 tvg-id="ddbangla" tvg-name="DD Bangla" tvg-language="Bengali", DD Bangla
+https://www.youtube.com/@DDBangla/live
+
+#EXTINF:-1 tvg-id="ddpunjabi" tvg-name="DD Punjabi" tvg-language="Punjabi", DD Punjabi
+https://www.youtube.com/@DDPunjabi/live
+
+#EXTINF:-1 tvg-id="ddchandana" tvg-name="DD Chandana" tvg-language="Kannada", DD Chandana
+https://www.youtube.com/@DoordarshanChandana/live
