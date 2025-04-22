@@ -1,0 +1,11 @@
+Channel Name,LCN,Price (₹),Category,Language,Frequency,Symbol Rate,Polarization,Satellite
+DD National,114,0.00,General Entertainment,Hindi,11480,28800,Vertical,SES-7
+DD News,501,0.00,News,Hindi,11480,28800,Vertical,SES-7
+DD Kisan,198,0.00,Agriculture,Hindi,11480,28800,Vertical,SES-7
+DD India,622,0.00,International News,English,11480,28800,Vertical,SES-7
+Zee 24 Taas,1259,0.12,News,Marathi,11480,28800,Vertical,SES-7
+ABP Ananda,1360,0.00,News,Bengali,11480,28800,Vertical,SES-7
+News18 Gujarati,1726,0.12,News,Gujarati,11480,28800,Vertical,SES-7
+ETV Plus HD,1416,22.42,Entertainment,Telugu,11480,28800,Vertical,SES-7
+Gemini Movies HD,1430,22.42,Movies,Telugu,11480,28800,Vertical,SES-7
+Star Maa HD,1408,25.96,Entertainment,Telugu,11480,28800,Vertical,SES-7
