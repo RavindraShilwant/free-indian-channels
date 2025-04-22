@@ -1,0 +1,28 @@
+
+---
+
+### Sample `dd-free-dish.json` (inside `data/` folder)
+
+```json
+[
+  {
+    "channel": "DD National",
+    "frequency": "11090",
+    "symbol_rate": "29500",
+    "polarization": "Vertical",
+    "satellite": "GSAT-15",
+    "encryption": "Free-to-Air",
+    "category": "Entertainment",
+    "language": "Hindi"
+  },
+  {
+    "channel": "ABP News",
+    "frequency": "11510",
+    "symbol_rate": "29500",
+    "polarization": "Vertical",
+    "satellite": "GSAT-15",
+    "encryption": "Free-to-Air",
+    "category": "News",
+    "language": "Hindi"
+  }
+]
