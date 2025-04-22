@@ -1,0 +1,11 @@
+Channel Name,LCN,Price (₹),Category,Language,Frequency,Symbol Rate,Polarization,Satellite
+DD National,114,0.00,General Entertainment,Hindi,11090,29500,Vertical,GSAT-24
+DD News,501,0.00,News,Hindi,11090,29500,Vertical,GSAT-24
+DD Kisan,198,0.00,Agriculture,Hindi,11090,29500,Vertical,GSAT-24
+DD India,622,0.00,International News,English,11090,29500,Vertical,GSAT-24
+Zee 24 Taas,1259,0.12,News,Marathi,11090,29500,Vertical,GSAT-24
+ABP Ananda,1360,0.00,News,Bengali,11090,29500,Vertical,GSAT-24
+News18 Gujarati,1726,0.12,News,Gujarati,11090,29500,Vertical,GSAT-24
+ETV Plus HD,1416,22.42,Entertainment,Telugu,11090,29500,Vertical,GSAT-24
+Gemini Movies HD,1430,22.42,Movies,Telugu,11090,29500,Vertical,GSAT-24
+Star Maa HD,1408,25.96,Entertainment,Telugu,11090,29500,Vertical,GSAT-24
