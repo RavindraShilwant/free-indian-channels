@@ -15,4 +15,19 @@ https://www.youtube.com/@DDPunjabi/live
 #EXTINF:-1 tvg-id="ddchandana" tvg-name="DD Chandana", DD Chandana
 https://www.youtube.com/@DoordarshanChandana/live
 
-http://tigeriptv.vip:8080/100/100/81834​
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ZeeMarathi" group-title="Marathi", Zee Marathi
+http://tigeriptv.vip:8080/100/100/81834
+
+#EXTINF:-1 tvg-id="StarPravah" group-title="Marathi", Star Pravah
+http://tigeriptv.vip:8080/100/100/81825
+
+#EXTINF:-1 tvg-id="FaktMarathi" group-title="Marathi", Fakt Marathi
+http://tigeriptv.vip:8080/100/100/81829
+
+#EXTINF:-1 tvg-id="ZeeNews" group-title="Hindi News", Zee News
+http://tigeriptv.vip:8080/100/100/81833
+
+#EXTINF:-1 tvg-id="AajTak" group-title="Hindi News", Aaj Tak
+http://tigeriptv.vip:8080/100/100/81822
